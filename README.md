@@ -59,7 +59,8 @@
     
     - Select 'Post' method 
     
-    -Under 'Body' select -raw & -json as text and then paste the sample JSON input in it(Uploaded the JSON input under templates/input.json)
+    -Under 'Body' select -raw & -json as text and then paste the sample JSON input in it
+    (Uploaded the JSON input under templates/input.json)
     
     - Then click on 'Send' 
     
