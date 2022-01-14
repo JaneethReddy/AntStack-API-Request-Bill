@@ -14,7 +14,7 @@ Steps to Run app:
   - Run app using `flask run`
   - Open Postman app to post json api requests to our app
   - Give required details in the postman tab as shown in the reference image by me
-  - Info given:
+  >- Info given:
     - Under =='Enter request URL'== give flask localhost ip
     - Select =='Post'== method
     - Under =='Body'== select *raw* & *json* as text
