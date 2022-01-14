@@ -11,7 +11,7 @@
   - Clone my git repository (`git clone https://github.com/JaneethReddy/AntStack-API-Request-Bill.git`) <br>
   - Move to my repository folder <br>
   - In terminal type `virtualenv env` <br>
-  - Source the virtual environment using `source env/Scripts/activate` <br>
+  - Activate the virtual environment using `source env/Scripts/activate` <br>
   - Install required packages using `pip3 install -r requirements.txt` <br>
   - Run app using `flask run` <br>
   - Open Postman app to post json api requests to our app <br>
