@@ -8,7 +8,7 @@ Pre Requisites:
  
 Steps to Run app:
   - Use any Editor that contains a terminal to work with(I will be using Git Bash to explain the following steps)
-  - Clone my git repository
+  - Clone my git repository (`git clone https://github.com/JaneethReddy/AntStack-API-Request-Bill.git`)
   - Move to my repository folder
   - In terminal type `virtualenv env`
   - Source the virtual environment using `source env/Scripts/activate`
