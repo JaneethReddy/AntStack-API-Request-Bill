@@ -28,7 +28,7 @@
     
     - You can see the required Bill Reciept under 'Response' tab 
   
- <h3>Method2(Local Installation):
+ <h3>METHOD2:(Local Installation)
   
   
   Pre Requisites: <br>
