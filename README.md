@@ -1,8 +1,12 @@
 <h3>
   <strong>METHOD1: (Using Docker)</strong> <br>
+  
   -Install docker & type the following commands- <br>
+  
     `docker pull janeethreddy/api-app` <br>
+  
     `docker run -itd -p 5000:5000 --name app janeethreddy/api-app` <br>
+  
   -Download Postman App ([Download From Here](https://www.postman.com/downloads/))  <br>
   
   -Give required details in the postman tab as shown in the reference screenshot image by me <br>
@@ -22,7 +26,7 @@
     
     - You can see the required Bill Reciept under 'Response' tab <br>
   
-  
+  Method2(Local Installation):
   
   
   Pre Requisites: <br>
