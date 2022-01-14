@@ -1,4 +1,4 @@
-<h3> Pre Requisites: <br>
+<h3 <style>font-weight: normal </style>> Pre Requisites: <br>
 
   -Python3 <br>
   - Virtualenv package installed <br>
