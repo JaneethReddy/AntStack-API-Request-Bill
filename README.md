@@ -1,5 +1,5 @@
 <h3>
-  <strong>METHOD1: (Using Docker)</strong> <br>
+  METHOD1: (Using Docker) <br> <br>
   
   -Install docker & type the following commands- <br>
   
@@ -9,7 +9,7 @@
   
   -Download Postman App ([Download From Here](https://www.postman.com/downloads/))  <br>
   
-  -Give required details in the postman tab as shown in the reference screenshot image by me <br>
+  -Give required details in the postman tab as shown in the reference screenshot image by me <br> </h3>
   
   ![Reference Screenshot](https://github.com/JaneethReddy/AntStack-API-Request-Bill/blob/2afbc32515613be47d71b50500c27dc9ad3415eb/Screenshot%20(186).png)  <br>
   
@@ -26,7 +26,7 @@
     
     - You can see the required Bill Reciept under 'Response' tab <br>
   
-  Method2(Local Installation):
+ <h3>Method2(Local Installation):
   
   
   Pre Requisites: <br>
