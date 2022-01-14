@@ -1,6 +1,6 @@
 Pre Requisites:
 
-  -Python
+  -Python3
   - Virtualenv package installed
   
   -Postman ([Download From Here](https://www.postman.com/downloads/))
