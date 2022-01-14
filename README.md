@@ -1,4 +1,4 @@
-<h4> Pre Requisites: <br>
+<h3> Pre Requisites: <br>
 
   -Python3 <br>
   - Virtualenv package installed <br>
@@ -15,7 +15,7 @@
   - Install required packages using `pip3 install -r requirements.txt` <br>
   - Run app using `flask run` <br>
   - Open Postman app to post json api requests to our app <br>
-  - Give required details in the postman tab as shown in the reference screenshot image by me <br> </h4> 
+  - Give required details in the postman tab as shown in the reference screenshot image by me <br> </h3> 
   
   ![Reference Screenshot](https://github.com/JaneethReddy/AntStack-API-Request-Bill/blob/2afbc32515613be47d71b50500c27dc9ad3415eb/Screenshot%20(186).png)  <br>
   
