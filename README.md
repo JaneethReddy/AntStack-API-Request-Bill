@@ -1,13 +1,14 @@
 <h3>
   METHOD1: (Using Docker) <br> <br>
   
-  -Install docker & type the following commands- <br>
+  -Install docker & type the following commands- <br> <br>
   
-    `docker pull janeethreddy/api-app` <br>
+    docker pull janeethreddy/api-app 
   
-    `docker run -itd -p 5000:5000 --name app janeethreddy/api-app` <br>
+    docker run -itd -p 5000:5000 --name app janeethreddy/api-app 
   
-  -Download Postman App ([Download From Here](https://www.postman.com/downloads/))  <br>
+  <br>
+  -Download Postman App ([Download From Here](https://www.postman.com/downloads/))  <br><br>
   
   -Give required details in the postman tab as shown in the reference screenshot image by me <br> </h3>
   
@@ -16,15 +17,16 @@
   
   >- Info given: <br>
   >
-    - Under 'Enter request URL' give flask localhost ip <br>
+    - Under 'Enter request URL' give flask localhost ip 
     
-    - Select 'Post' method <br>
+    - Select 'Post' method 
     
-    - Under 'Body' select -raw & -json as text and then paste the sample JSON input in it(Uploaded the JSON input under templates/input.json)<br>
+    - Under 'Body' select -raw & -json as text and then paste the sample JSON input in it
+    (Uploaded the JSON input under templates/input.json)
     
-    - Then click on 'Send' <br>
+    - Then click on 'Send' 
     
-    - You can see the required Bill Reciept under 'Response' tab <br>
+    - You can see the required Bill Reciept under 'Response' tab 
   
  <h3>Method2(Local Installation):
   
@@ -53,13 +55,13 @@
   
   >- Info given: <br>
   >
-    - Under 'Enter request URL' give flask localhost ip <br>
+    - Under 'Enter request URL' give flask localhost ip 
     
-    - Select 'Post' method <br>
+    - Select 'Post' method 
     
-    -Under 'Body' select -raw & -json as text and then paste the sample JSON input in it(Uploaded the JSON input under templates/input.json)<br>
+    -Under 'Body' select -raw & -json as text and then paste the sample JSON input in it(Uploaded the JSON input under templates/input.json)
     
-    - Then click on 'Send' <br>
+    - Then click on 'Send' 
     
-    - You can see the required Bill Reciept under 'Response' tab <br>
+    - You can see the required Bill Reciept under 'Response' tab 
   
