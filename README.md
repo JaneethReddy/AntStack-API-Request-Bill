@@ -4,6 +4,7 @@ Pre Requisites:
   
   -Postman ([Download From Here](https://www.postman.com/downloads/))
   - Virtualenv package installed
+ 
 Steps to Run app:
   - Use any Editor that contains a terminal to work with(I will be using Git Bash to explain the following steps)
   - Clone my git repository
