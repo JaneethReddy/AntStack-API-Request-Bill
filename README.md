@@ -14,7 +14,10 @@ Steps to Run app:
   - Run app using `flask run`
   - Open Postman app to post json api requests to our app
   - Give required details in the postman tab as shown in the reference screenshot image by me
+  
   ![Reference Screenshot](https://github.com/JaneethReddy/AntStack-API-Request-Bill/blob/2afbc32515613be47d71b50500c27dc9ad3415eb/Screenshot%20(186).png)
+  
+  
   >- Info given:
   >
     - Under 'Enter request URL' give flask localhost ip
