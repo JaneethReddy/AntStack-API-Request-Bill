@@ -20,9 +20,9 @@ Steps to Run app:
     
     - Select 'Post' method
     
-    - Under 'Body' select *raw* & *json* as text
+    - Under 'Body' select -raw & then -json as text
     
-    - Then click on **Send**
+    - Then click on 'Send'
     
     - You can see the required Bill Reciept under 'Response' tab
   
