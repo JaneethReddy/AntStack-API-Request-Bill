@@ -1,4 +1,31 @@
-<h3>Pre Requisites: <br>
+<h3>
+  <strong>METHOD1: (Using Docker)</strong> <br>
+  -Install docker & type the following commands- <br>
+    `docker pull janeethreddy/api-app` <br>
+    `docker run -itd -p 5000:5000 --name app janeethreddy/api-app` <br>
+  -Download Postman App ([Download From Here](https://www.postman.com/downloads/))  <br>
+  
+  -Give required details in the postman tab as shown in the reference screenshot image by me <br>
+  
+  ![Reference Screenshot](https://github.com/JaneethReddy/AntStack-API-Request-Bill/blob/2afbc32515613be47d71b50500c27dc9ad3415eb/Screenshot%20(186).png)  <br>
+  
+  
+  >- Info given: <br>
+  >
+    - Under 'Enter request URL' give flask localhost ip <br>
+    
+    - Select 'Post' method <br>
+    
+    - Under 'Body' select -raw & -json as text and then paste the sample JSON input in it(Uploaded the JSON input under templates/input.json)<br>
+    
+    - Then click on 'Send' <br>
+    
+    - You can see the required Bill Reciept under 'Response' tab <br>
+  
+  
+  
+  
+  Pre Requisites: <br>
 
   -Python3 <br>
   - Virtualenv package installed <br>
@@ -26,7 +53,7 @@
     
     - Select 'Post' method <br>
     
-    - Under 'Body' select -raw & then -json as text <br>
+    -Under 'Body' select -raw & -json as text and then paste the sample JSON input in it(Uploaded the JSON input under templates/input.json)<br>
     
     - Then click on 'Send' <br>
     
