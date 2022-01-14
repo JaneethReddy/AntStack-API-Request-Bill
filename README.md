@@ -15,9 +15,13 @@ Steps to Run app:
   - Open Postman app to post json api requests to our app
   - Give required details in the postman tab as shown in the reference image by me
   >- Info given:
-    - Under =='Enter request URL'== give flask localhost ip
-    - Select =='Post'== method
-    - Under =='Body'== select *raw* & *json* as text
+    - Under 'Enter request URL' give flask localhost ip
+    
+    - Select 'Post' method
+    
+    - Under 'Body' select *raw* & *json* as text
+    
     - Then click on **Send**
+    
     - You can see the required Bill Reciept under 'Response' tab
   
