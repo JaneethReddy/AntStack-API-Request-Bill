@@ -6,7 +6,7 @@ Pre Requisites:
   -Postman ([Download From Here](https://www.postman.com/downloads/))
   
  
-Steps to Run app:
+###Steps to Run app:
   - Use any Editor that contains a terminal to work with(I will be using Git Bash to explain the following steps)
   - Clone my git repository (`git clone https://github.com/JaneethReddy/AntStack-API-Request-Bill.git`)
   - Move to my repository folder
